@@ -20,4 +20,4 @@ jobs:
       - name: Run `openapi` command 🚀
         uses: readmeio/rdme@8.0.0-beta.8
         with:
-          rdme: openapi petstore.json --key=${{ secrets.README_API_KEY }} --id=634f2fc523520a002f1f14ff
+          rdme: openapi petstore.json --key=${{ secrets.README_API_KEY_2 }} --id=634f2fc523520a002f1f14ff
